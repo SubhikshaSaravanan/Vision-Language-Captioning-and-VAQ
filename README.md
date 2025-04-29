@@ -98,7 +98,7 @@ Note: Evaluation shown in the notebook is for a representative sample and should
 
 - GPU is highly recommended for inference due to model size
 - MarianMT models require internet access during the first run to download language models
-- Ensure the CSV file (results.csv) and images are accessible at the expected paths
+- Ensure the CSV file (image_captions.csv) and images are accessible at the expected paths
 
 ## Possible Extensions
 
